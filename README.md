@@ -4,4 +4,4 @@
 Python notebook to train and test model for Hindi to English machine traslation.
 
 ## Data
-This folder contains data to train model
+This folder contains data to train and test model
